@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
+*
+{
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+:root{
+ --primary-background: url(./Images/7167568.jpg);
+  --primary-color: #191919;
+  --secondp-color: #fff;
+  --second2-color:#fcfc;
+  --primary1-color:#101010;
+   transition: 5s linear;
+
+}
