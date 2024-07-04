@@ -55,7 +55,7 @@ export const Services = () => {
         <p>Let Me Get You A Beautiful Website. </p>
         <a href="#social" class="button">Hire Me</a>
         {/* <!-- <button id="downloadZip" >Download ZIP</button> --> */}
-        <a id="downloadZip" href="https://drive.google.com/file/d/1tdfJ7aa3q0G1mpDeIHY8Z6m6lJM2kV5j/view?usp=drive_link" class="button">Download CV</a>
+        <a id="downloadZip" href="https://drive.google.com/file/d/1tdfJ7aa3q0G1mpDeIHY8Z6m6lJM2kV5j/view?usp=drive_link" target="blank" rel="noreferrer" class="button">Download CV</a>
 
     </div>
     </div>
